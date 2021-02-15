@@ -1,7 +1,7 @@
 #include <jni.h>
 #include <string>
 
-extern "C" JNIEXPORT jstring  extern "C" jstring
+extern "C" JNIEXPORT jstring
 Java_com_interview_willyweathertest_MainActivity_stringFromJNI(
         JNIEnv* env,
         jobject /* this */) {
