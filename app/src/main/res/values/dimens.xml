@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding1x">4dp</dimen>
+    <dimen name="padding2x">8dp</dimen>
+    <dimen name="padding3x">16dp</dimen>
+    <dimen name="padding4x">24dp</dimen>
+
+    <dimen name="margin1x">4dp</dimen>
+    <dimen name="margin2x">8dp</dimen>
+    <dimen name="margin3x">16dp</dimen>
+    <dimen name="margin4x">24dp</dimen>
+
+    <dimen name="playing_now_height">160dp</dimen>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="finished_colors">
+        <item>@color/fc_above_60</item>
+        <item>@color/fc_above_1</item>
+    </integer-array>
+
+    <integer-array name="unfinished_colors">
+        <item>@color/ufc_above_60</item>
+        <item>@color/ufc_above_1</item>
+    </integer-array>
+
+    <integer-array name="progress_ranges">
+        <item>60</item>
+        <item>1</item>
+    </integer-array>
+
+</resources>

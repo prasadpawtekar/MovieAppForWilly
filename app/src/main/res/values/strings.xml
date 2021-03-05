@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">WillyWeatherTest</string>
+    <string name="app_name">Willy Movie</string>
+    <string name="lable_playing_now">Playing Now</string>
+    <string name="label_movie_box">MOVIEBOX</string>
+    <string name="label_popular">Most Popular</string>
+    <string name="loader_msg">Loading. Please wait.</string>
+    <string name="label_overview">Overview</string>
+    <string name="error_no_internet">Not connected to internet. Please retry by enabling mobile data or WiFi.</string>
+    <string name="button_ok">Ok</string>
 </resources>

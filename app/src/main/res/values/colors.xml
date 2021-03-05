@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#fcd052</color>
+    <color name="colorTransPrimary">#70212121</color>
+
+    <color name="fc_above_60">#1fd47c</color>
+    <color name="fc_above_1">#d4d730</color>
+
+    <color name="ufc_above_60">#204528</color>
+    <color name="ufc_above_1">#413e0e</color>
+
+    <color name="section_bg_color">#404040</color>
+    <color name="section_text_color">#fcd052</color>
+
+    <color name="text_color">#cdcdcd</color>
+    <color name="divider_color">#404040</color>
 </resources>
